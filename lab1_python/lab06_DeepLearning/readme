@@ -1,0 +1,18 @@
+CPU version:
+DeepLearning_cpu.py is a cpu & numpy based python file.
+
+GPU version:
+If you wanna run this file in GPU, please download cudamat[1] on github, and then install gnumpy.
+
+code follows:
+1. cudamat install
+git clone https://github.com/cudamat/cudamat.git
+cd cudamat
+python setup.py install
+2. gnumpy install
+pip install gnumpy
+
+how to use cudamat & gnumpy.
+click here:
+cudamat: https://github.com/cudamat/cudamat
+gnumpy: https://pypi.python.org/pypi/gnumpy/
