@@ -94,7 +94,7 @@ pipreqs==0.4.9
 plainbox==0.25
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
-psutil==3.4.2
+psutil==5.6.6
 ptyprocess==0.5
 pyasn1==0.1.9
 pyasn1-modules==0.2.1
