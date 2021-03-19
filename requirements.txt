@@ -54,7 +54,7 @@ ipywidgets==7.2.1
 isort==4.3.4
 jedi==0.12.0
 jieba==0.39
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonschema==2.6.0
 jupyter==1.0.0
